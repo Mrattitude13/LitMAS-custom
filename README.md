@@ -1,4 +1,4 @@
-INFO:
+INFO: 
 Has LitMS and LitORM
 Has BRDF
 Mono SH
