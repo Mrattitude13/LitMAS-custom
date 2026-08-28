@@ -1,0 +1,16 @@
+{
+  "name": "com.mrattitude.litmascustom",
+  "version": "1.0.0",
+  "displayName": "LitMAS Custom",
+  "unity": "2021.3",
+  "keywords": [
+    "slz",
+    "shader",
+    "urp"
+  ],
+  "author": {
+    "name": "Mr.Attitude",
+    "email": "no",
+    "url": "https://mod.io/u/mrattitude11/"
+  },
+}
